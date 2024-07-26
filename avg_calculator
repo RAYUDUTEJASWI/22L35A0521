@@ -1,1 +1,25 @@
+{
+  "companyname": "test1",
+  "ownername": "RAYUDU_TEJASWI",
+  "rollno": "22L35A0521",
+  "owneremail": "rayudutejaswi32@gmail.com"
+  "accesscode":"ZngVRi"
+}
 
+
+
+{
+  "companyName": "test1",
+  "clientID": "9cc9ea8b-b4aa-450b-9dc8-d1c7d7f9625c",
+  "clientSecret": "pMlJEaoKJIjXkuCz",
+  "ownerName": "RAYUDU_TEJASWI",
+  "ownerEmail": "rayudutejaswi32@gmail.com",
+  "rollNo": "22L35A0521"
+}
+
+
+{
+  "token_type": "Bearer",
+  "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXBDbGFpbXMiOnsiZXhwIjoxNzIxOTc1MTQyLCJpYXQiOjE3MjE5NzQ4NDIsImlzcyI6IkFmZm9yZG1lZCIsImp0aSI6IjljYzllYThiLWI0YWEtNDUwYi05ZGM4LWQxYzdkN2Y5NjI1YyIsInN1YiI6InJheXVkdXRlamFzd2kzMkBnbWFpbC5jb20ifSwiY29tcGFueU5hbWUiOiJ0ZXN0MSIsImNsaWVudElEIjoiOWNjOWVhOGItYjRhYS00NTBiLTlkYzgtZDFjN2Q3Zjk2MjVjIiwiY2xpZW50U2VjcmV0IjoicE1sSkVhb0tKSWpYa3VDeiIsIm93bmVyTmFtZSI6IlJBWVVEVV9URUpBU1dJIiwib3duZXJFbWFpbCI6InJheXVkdXRlamFzd2kzMkBnbWFpbC5jb20iLCJyb2xsTm8iOiIyMkwzNUEwNTIxIn0.O7m_-QJnRWS0HLahjApBgQPsg2iMkMQ2c58ECDuF450",
+  "expires_in": 1721975142
+}
